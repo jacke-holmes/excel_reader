@@ -1,0 +1,17 @@
+C:\Workspace\C#\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.exe
+C:\Workspace\C#\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.deps.json
+C:\Workspace\C#\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.runtimeconfig.json
+C:\Workspace\C#\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.dll
+C:\Workspace\C#\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.pdb
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.csproj.AssemblyReference.cache
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.AssemblyInfoInputs.cache
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.AssemblyInfo.cs
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.dll
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\refint\ExcelReader.dll
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.pdb
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.genruntimeconfig.cache
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ref\ExcelReader.dll
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Workspace\C#\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.csproj.ResolveComReference.cache
